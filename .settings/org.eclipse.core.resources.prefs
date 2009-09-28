@@ -1,0 +1,13 @@
+#Mon Sep 14 16:14:55 CEST 2009
+eclipse.preferences.version=1
+encoding//src/ZigBeeSniffer.py=utf-8
+encoding//src/settings.py=utf-8
+encoding//src/snifferData/__init__.py=utf-8
+encoding//src/snifferData/channels.py=utf-8
+encoding//src/snifferData/constants.py=utf-8
+encoding//src/snifferData/mac.py=utf-8
+encoding//src/snifferData/packetDetails.py=utf-8
+encoding//src/snifferData/packets.py=utf-8
+encoding//src/snifferViaRS.py=utf-8
+encoding//src/ui_dialogNetwork.py=utf-8
+encoding//src/ui_snifferMainWindow.py=utf-8

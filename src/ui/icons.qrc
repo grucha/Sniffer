@@ -1,0 +1,23 @@
+<RCC>
+  <qresource>
+    <file>icons/help-about.png</file>
+    <file>icons/network-wireless.png</file>
+    <file>icons/media-playback-start.png</file>
+    <file>icons/mail-tagged.png</file>
+    <file>icons/logoZigBee.png</file>
+    <file>icons/configure.png</file>
+    <file>icons/document-new.png</file>
+    <file>icons/document-open.png</file>
+    <file>icons/document-save.png</file>
+    <file>icons/help-contents.png</file>
+    <file>icons/media-playback-stop.png</file>
+    <file>icons/media-record.png</file>
+    <file>icons/media-skip-forward.png</file>
+    <file>icons/nepomuk.png</file>
+    <file>icons/page-zoom.png</file>
+    <file>icons/page-zoom2.png</file>
+    <file>icons/system-shutdown.png</file>
+    <file>icons/view-statistics.png</file>
+    <file>icons/window-close.png</file>
+  </qresource>
+</RCC>
